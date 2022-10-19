@@ -1,13 +1,12 @@
 ---
 title: "Oatmeal Chocolate-Chip Cookies"
-date: 2022-10-18T09:42:01+02:00
+date: 2022-10-18
 slug: "oatmeal-cookies"
 description: "Easy to make and delicious"
-keywords:
+draft: false
+recipes/tags:
   - chocolate
   - cookies
-  - oatmeal
-draft: false
 tags:
   - chocolate
   - cookies

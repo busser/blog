@@ -1,0 +1,12 @@
+<ul class="tags__list">
+  {{ $taxo := $.Section }}
+  {{ if $.IsSection }}
+    {{ $taxo = (printf "%s/tags" $.Section) }}
+  {{ end }}
+  {{ $pagesByTag := (index $.Site.Taxonomies $taxo) }}
+  {{ range $tag, $value := $pagesByTag }}
+  <li class="tag__item">
+    <a class="tag__link" href="{{ $taxo | relLangURL}}/{{ $tag | urlize }}/">{{ $tag }} ({{ len $value }})</a>
+  </li>
+  {{ end }}
+</ul>

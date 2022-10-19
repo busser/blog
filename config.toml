@@ -7,6 +7,10 @@ languageCode = "en-us"
 baseURL = "https://b4r.fr/"
 copyright = "© {year}"
 
+[taxonomies]
+  recipe_tag = "recipes/tags"
+  puzzle_tag = "puzzles/tags"
+
 # Optional params
 [params]
   # Follow the Hugo date/time format reference here: 
@@ -47,8 +51,15 @@ copyright = "© {year}"
   weight = 10
 
 [[menu.main]]
-  identifier = "blog"
-  name = "blog"
-  title = "Blog"
-  url = "/blog"
+  identifier = "recipes"
+  name = "recipes"
+  title = "Recipes"
+  url = "/recipes"
   weight = 20
+
+[[menu.main]]
+  identifier = "puzzles"
+  name = "puzzles"
+  title = "Puzzles"
+  url = "/puzzles"
+  weight = 30
