@@ -4,7 +4,7 @@ theme = "codex"
 # Override these settings with your own
 title = "Food for thought"
 languageCode = "en-us"
-baseURL = "https://b4r.fr/"
+baseURL = "https://f4t.dev/"
 copyright = "© {year}"
 
 [taxonomies]

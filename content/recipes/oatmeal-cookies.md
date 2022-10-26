@@ -34,14 +34,15 @@ Credit where credit is due: this recipe is based on [Clemfoodie's](https://clemf
 
 ## Tools
 
-|     Tool     |                                 Notes                                  |
-| :----------: | :--------------------------------------------------------------------: |
-|     Oven     |                                                                        |
-|  Oven tray   |                                                                        |
-| Mixing bowl  |                  Needs to be somewhat big: ~20cm deep                  |
-|    Whisk     | You may fall back to using hands because the dough becomes quite thick |
-| Baking paper |                                                                        |
-|   Spatula    |                                                                        |
+|     Tool     |                              Notes                              |
+| :----------: | :-------------------------------------------------------------: |
+|     Oven     |                                                                 |
+|  Oven tray   |                                                                 |
+| Mixing bowl  |              Needs to be somewhat big: ~20cm deep               |
+|    Whisk     |                                                                 |
+| Wooden spoon | More efficient than the whisk when the dought becomes too thick |
+| Baking paper |                                                                 |
+|   Spatula    |                                                                 |
 
 ## Steps
 
@@ -59,9 +60,7 @@ Credit where credit is due: this recipe is based on [Clemfoodie's](https://clemf
    are incorporated.
 6. Add 25% of the **dark chocolate**. Mix until homogenous. Repeat until all
    the chocolate is incorporated.
-   - _This step is more easily done with your hand than with the whisk._
-   - _Dough will stick to your skin. Put as much as you can back into the bowl.
-     Enjoy licking your fingers. Whatever remains is easily rinced off._
+   - _This step is more easily done with the **wooden spoon** than with the whisk._
 7. Put the **baking paper** on the oven tray.
 8. Put ~5cm balls of dough on the oven tray. Put them ~10cm apart.
 9. Put the tray into the oven. Bake for ~12 minutes.

@@ -1,19 +1,22 @@
 ---
 title: "Twelve coins"
-date: 2022-10-18
+date: 2022-10-21
 slug: "twelve-coins"
 description: "Weighing the pros and cons"
 draft: false
 puzzles/tags:
   - statement
   - logic
-  - easy
+  - difficult
 math: false
 toc: false
 ---
 
+_This is a more difficult version of the [Twelve marbles]({{< ref "puzzles/twelve-marbles/index.md" >}})
+puzzle._
+
 You have twelve seemingly-identical coins. One of them is fake, but you don't
-know which one. All you know is that the fake coin is heavier than
+know which one. All you know is that the fake coin has a different weight than
 the real coins.
 
 You have a scale you can compare coins with: put any number of coins on each

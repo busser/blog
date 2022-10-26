@@ -1,5 +1,120 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="264px" height="393px" viewBox="-0.5 -0.5 264 393" content="&lt;mxfile scale=&quot;1&quot; border=&quot;10&quot;&gt;&lt;diagram id=&quot;0zVw9R6FA8zEsEWao3nw&quot; name=&quot;Page-1&quot;&gt;7Ztbc6IwFMc/ja87SADxcev28rI7O9OHfU4hQqZInJhW7affRBKUizW2EOPFznTMgQDn/ztJzgEZgMls9UjhPP1NYpQNXCdeDcCvget6Af8n2uui7Y+KdkJxXFiGW8Mz/kDS6EjrG47RorIjIyRjeF41RiTPUcQqNkgpWVZ3m5KsetY5TFDD8BzBrGn9h2OWFtbQHW3tTwgnqTrzMBgXW2ZQ7Sw9WaQwJssdE7gfgAklhBXfZqsJyoRySpei38OereWFUZQzrQ6yxzvM3qRz8sLYWnnLe3BheeNumWKGnucwEluWHCy3pWyW8daQf4WLeaH2FK8QP8Hd4hWxSDjsiAaj5LXUyxUW5bzYPMVZNiEZoZuTgqkv/spuO1uCzUf0IDnbsRcfbm9qoJxElKHVjklq8ojIDDG65ruo+HQkn7WSSbaXW9zKlO6SljYoAywpj7xlwL9IDHuQeJYiiX0Uxl4bktB9ARskXUjvnlD6wFLpp2GEoqhN+pfQ93ynI+m900nvaUxECSVvc30/y/kfvqgjOJ/674Y1/4Om/67XIkDYgQCuRujl8U+xevFWTnJUDbcyuoaN6GqfFJXiKK4sdk11drz3W5xXNooyyPB7dYlsU0Se4S/B/FJK8Wva1yVdkDcaIdlnd0GrHWZYmz7c2nEYpAlijeNs6JQ+awEDVw6sHB1nQ0xnYb0RO0zswFDtDph/5cBc5/OhoQvMMzXCdPKnG7DDwMrjdI9odOWIDoyFY4dU94DCKwd09KrUPQJV0Fwtg0Z4aydzQX/Zm0aFZLpCdEeaFeK4iwrRfDrkWhWVNfHrmn614AC9hewJ8iG7iNUrjjNAZj4/ukxkBwZrh8TMJ0x2EeupSuwvw3XHN2KdEOuxTFQz7NUyOjAarLv1AnSe5F4ysHpqfiyw/glpFDAXTcjKqlLjMY7pqhKoZMlEVQnMP8cCVkXl2VWVwPxzLLuInV9VCczfurlMZMaqSmD+1o1dxOo1iv0JsPk7N5dJ7FB12iEy87du7EJm/cNIYP5WjV2ELHgaqeheLYOuhkk9Cenxl2YaKXrfVSWoeWv017w6+e6ZvVYg7A9whjOh54SHHEaUe/QHLeVG+Z7KUFyDwIcjmP3McJJz4wzHsXD8bsHdxHkiLzUlFH/wrlD5ujmO1MhpGZjenuj4dGj2RlkjR94T5XsdOf7mSXVIN0I8aPoedOD6d5PNSjQ9oewdiXhpn40Dq2ZjUBG8pqXuVAx6m3m/m1KeIZh1q6a6KIIKz/7AaGSSvS+J9Rc8DC6Jvk4Wd1sSj18Sx3ui4yRLov/dp3DHTD9jO6af1oXY+zH2nZ3PFyen8JiDfnmy4s3tK7fF7tu3lsH9fw==&lt;/diagram&gt;&lt;/mxfile&gt;">
-    <defs/>
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="264px" height="393px" viewBox="-0.5 -0.5 264 393" content="&lt;mxfile scale=&quot;1&quot; border=&quot;10&quot;&gt;&lt;diagram id=&quot;0zVw9R6FA8zEsEWao3nw&quot; name=&quot;Page-1&quot;&gt;7Ztdc6MgFIZ/Te4NaGov22zbvdmdnenFXlMlyhQlQ0iT9NcvRjB+pJXsGEpi05lOeBH0nOcgHJhM4DzbPnG0TH+xGNMJ8OLtBP6YAAA8KP8Xwk4JgRISTuJSmh6EZ/KOlegpdU1ivGpcKBijgiybYsTyHEeioSHO2aZ52YLR5l2XKMEd4TlCtKv+JbFISzUENwf9JyZJqu88nd2WNRnSFytLVimK2aYmwYcJnHPGRPkt284xLXyn/VK2e/ygtnowjnNh1EC1eEN0rYxTDyZ22lrZQjpWFu43KRH4eYmiomYj0UotFRmVpan8ilbL0tsLssXyBverVyyiwmCvKAjOXit/gULRxhfVC0LpnFHG9zeFi6D4q5rVamb7T9GC5aKmlx+lP6KM0CK65mzNCebSot94oypVQE2LZ3jDXBBJ9o6SJJdiRuK4MPx+Jc0keaIeNWWcvMumSNu670f5yOt6XbtV9o63NUlReMIsw4Lv5CWq1vdULzsNRpU3hwDTUlqPLaUhFdJJ1fOBuvyiwH8QBL6jQRAHOIz9Y0EQghdYBcGHsIfgAr6Qy8xRLoswwlF0jMtLGPiBZ4OL/3VcfIOXZsLZemluZzVXoRfdg/ep/SBs2T/r2g/8Iw4IB3AAMIjLPL4rZlpZylmOm7FYhd60E3rwaHhoj+O4MTF3vVOzPjhivNY4pkiQt+Z0fswj6g5/GJGPUjm/5fu2S1cy3COs2tQn31Y309a7BbT6EYgnWHT62dOpbDYCBkcOrBodF0PMZEr+JtZPrGeoDgcsGDkw4H0+NEyB+bZGmMni6htYP7Cqn+ER3YwcUc9YOHVIDQ8oHDmgk2el4RHohGa0DDrhbbyYm51v9WaQIdnOEMGNYYZ4O0SGaH85BJyKypbz2z7934QDni1kv2A95BaxdsZxAcjsr4+uE1nPYB2QmP0Fk1vEzpQlnm+FC26/iQ1C7Ixpon7DjpZRz2hwbusFmpw6XzOw9tL8VGDnJ2SQwFw1ISezSoNjHNtZJdSLJRtZJbR/jgWdisqLyyqh/XMst4hdXlYJ7W/dXCcya1kltL914xaxdo7i/gLY/s7NdRLry04HRGZ/68YtZM4fRkL7WzVuEXLgNFLTHS2DoYZJexEy2ItNFg8/LygvP/xGAz78Aw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <style type="text/css">
+            /* cyrillic-ext */
+@font-face {
+  font-family: 'Fira Code';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/firacode/v21/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJV37NuzlojwUKaJO.woff2") format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Fira Code';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/firacode/v21/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJVT7NuzlojwUKaJO.woff2") format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Fira Code';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/firacode/v21/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJVz7NuzlojwUKaJO.woff2") format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Fira Code';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/firacode/v21/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJVP7NuzlojwUKaJO.woff2") format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Fira Code';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/firacode/v21/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJV77NuzlojwUKaJO.woff2") format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Fira Code';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/firacode/v21/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJVD7NuzlojwUKQ.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Fira Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/firamono/v14/N0bX2SlFPv1weGeLZDtgK_7Ss9XZYalI.woff2") format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Fira Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/firamono/v14/N0bX2SlFPv1weGeLZDtgIv7Ss9XZYalI.woff2") format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Fira Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/firamono/v14/N0bX2SlFPv1weGeLZDtgKv7Ss9XZYalI.woff2") format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Fira Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/firamono/v14/N0bX2SlFPv1weGeLZDtgJf7Ss9XZYalI.woff2") format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Fira Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/firamono/v14/N0bX2SlFPv1weGeLZDtgKP7Ss9XZYalI.woff2") format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Fira Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/firamono/v14/N0bX2SlFPv1weGeLZDtgJv7Ss9XZYQ.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Syne Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/synemono/v15/K2FzfZNHj_FHBmRbFvHDK6qlLSj6ZVOM.woff2") format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Syne Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/synemono/v15/K2FzfZNHj_FHBmRbFvHDJaqlLSj6ZQ.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+        </style>
+    </defs>
     <g>
         <ellipse cx="136" cy="16" rx="5" ry="5" fill="#f5f5f5" stroke="#666666" stroke-width="2" pointer-events="all"/>
         <ellipse cx="156" cy="16" rx="5" ry="5" fill="#d5e8d4" stroke="#82b366" stroke-width="2" pointer-events="all"/>
@@ -28,10 +143,5 @@
         <path d="M 51 311 M 51 311 C 52 304.94 50.11 302.45 51 291 M 51 311 C 51.74 305.92 51.01 302 51 291" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="none"/>
         <path d="M 91 291 M 91 291 C 74.09 292.7 58.09 290.65 11 291 M 91 291 C 65.89 291.51 41.78 291.61 11 291" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="none"/>
         <path d="M 251 311 M 251 311 C 232.94 308.67 219.04 311 171 311 M 251 311 C 227.49 311.63 203.34 310.52 171 311" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="none"/>
-        <ellipse cx="96" cy="16" rx="5" ry="5" fill="#f5f5f5" stroke="#666666" stroke-width="2" pointer-events="none"/>
-        <path d="M 96 19 L 96 13" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
-        <path d="M 93 16 L 99 16" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
-        <ellipse cx="116" cy="16" rx="5" ry="5" fill="#f5f5f5" stroke="#666666" stroke-width="2" pointer-events="none"/>
-        <path d="M 113 15.95 L 119 15.95" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
     </g>
 </svg>
