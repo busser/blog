@@ -34,15 +34,15 @@ Credit where credit is due: this recipe is based on [Clemfoodie's](https://clemf
 
 ## Tools
 
-|     Tool     |                              Notes                              |
-| :----------: | :-------------------------------------------------------------: |
-|     Oven     |                                                                 |
-|  Oven tray   |                                                                 |
-| Mixing bowl  |              Needs to be somewhat big: ~20cm deep               |
-|    Whisk     |                                                                 |
-| Wooden spoon | More efficient than the whisk when the dought becomes too thick |
-| Baking paper |                                                                 |
-|   Spatula    |                                                                 |
+|     Tool     |                             Notes                              |
+| :----------: | :------------------------------------------------------------: |
+|     Oven     |                                                                |
+|  Oven tray   |                                                                |
+| Mixing bowl  |              Needs to be somewhat big: ~20cm deep              |
+|    Whisk     |                                                                |
+| Wooden spoon | More efficient than the whisk when the dough becomes too thick |
+| Baking paper |                                                                |
+|   Spatula    |                                                                |
 
 ## Steps
 
