@@ -10,6 +10,7 @@ copyright = "© {year}"
 [taxonomies]
   recipe_tag = "recipes/tags"
   puzzle_tag = "puzzles/tags"
+  tech_tag = "software/tags"
 
 # Optional params
 [params]
@@ -63,3 +64,10 @@ copyright = "© {year}"
   title = "Puzzles"
   url = "/puzzles"
   weight = 30
+
+[[menu.main]]
+  identifier = "software"
+  name = "software"
+  title = "Software"
+  url = "/software"
+  weight = 40
